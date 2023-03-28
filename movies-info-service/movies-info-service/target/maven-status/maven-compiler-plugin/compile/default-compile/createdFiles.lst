@@ -1,0 +1,5 @@
+reactiveProgramming\moviesinfoservice\service\MoviesInfoService.class
+reactiveProgramming\moviesinfoservice\domain\MovieInfo.class
+reactiveProgramming\moviesinfoservice\repository\MovieInfoRepository.class
+reactiveProgramming\moviesinfoservice\MoviesInfoServiceApplication.class
+reactiveProgramming\moviesinfoservice\controller\MoviesInfoController.class
